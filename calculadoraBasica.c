@@ -83,4 +83,7 @@ void mostrar_menu()
 // Crear las demás funciones aquí
 
 
-
+//Funcion RESTA
+int restar(int a, int b){
+    return a - b;
+}
