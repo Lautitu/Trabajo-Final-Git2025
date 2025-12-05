@@ -38,6 +38,7 @@ int main()
             scanf("%d", &num1);
             printf("Ingrese segundo numero: ");
             scanf("%d", &num2);
+            printf("Resultado de la multiplicacion %d * %d = %d", num1, num2, multiplicar(num1, num2))
             break;
 
         case 4:
