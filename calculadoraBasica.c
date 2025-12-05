@@ -50,6 +50,7 @@ int main()
                 printf("Error: Division por cero no permitida. Ingrese un segundo numero diferente de cero: ");
                 scanf("%d", &num2);
             }
+            printf("El resultado de %d/%d = %.2f", num1, num2, dividir(num1, num2));
             break;
 
         case 5:
@@ -96,8 +97,5 @@ int restar(int a, int b){
 float dividir(int a, int b){
     float fa = (float)a;
     float fb = (float)b;
-    if (fb != 0)
-        return fa/fb;
-    else
-        return 0;
+    return fa/fb;
 }
