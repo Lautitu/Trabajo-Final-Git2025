@@ -94,15 +94,12 @@ int sumar(int a, int b){
 int restar(int a, int b){
     return a - b;
 }
-<<<<<<< HEAD
 
 float dividir(int a, int b){
     float fa = (float)a;
     float fb = (float)b;
     return fa/fb;
 }
-=======
 int multiplicar(int a, int b){
     return a * b;
 }
->>>>>>> Implementacion-funcion-multiplicacion
