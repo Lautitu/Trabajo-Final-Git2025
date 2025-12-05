@@ -92,3 +92,12 @@ int sumar(int a, int b){
 int restar(int a, int b){
     return a - b;
 }
+
+float dividir(int a, int b){
+    float fa = (float)a;
+    float fb = (float)b;
+    if (fb != 0)
+        return fa/fb;
+    else
+        return 0;
+}
