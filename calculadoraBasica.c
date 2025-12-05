@@ -83,14 +83,12 @@ void mostrar_menu()
 
 // Crear las demás funciones aquí
 
-<<<<<<< HEAD
 
 //Funcion Suma
 int sumar(int a, int b){
     return a + b;
-=======
+}
 //Funcion RESTA
 int restar(int a, int b){
     return a - b;
->>>>>>> 8ef9a2aa29c42827219f9e36de6360438214bfee
 }
