@@ -30,6 +30,7 @@ int main()
             scanf("%d", &num1);
             printf("Ingrese segundo numero: ");
             scanf("%d", &num2);
+            printf("Resultado de la resta %d - %d = %d", num1, num2, restar(num1, num2));
             break;
 
         case 3:
@@ -81,7 +82,6 @@ void mostrar_menu()
 }
 
 // Crear las demás funciones aquí
-
 
 //Funcion RESTA
 int restar(int a, int b){
