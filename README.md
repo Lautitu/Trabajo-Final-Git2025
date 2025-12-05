@@ -6,13 +6,13 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 
 ## 👥 Integrantes del Equipo
 
-- **Colaborador 1:** [Nombre]
-- **Colaborador 2:** [Nombre]
-- **Colaborador 3:** [Nombre]
+- **Colaborador 1:** Madrid, Facundo
+- **Colaborador 2:** Fuentes Rodriguez, Lautaro Valentin
 
 
 ## 🔧 Funcionalidades Implementadas
-
+Colaborador 1 agrega funcionalidades de suma y multiplicacion
+Colaborador 2 agrega funcionalidades 
 ### Operaciones Disponibles
 - ✅ **Suma** 
 - ✅ **Resta** 
@@ -20,7 +20,7 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 - ✅ **División** 
 
 ### Desafíos Encontrados
-[Describir los principales desafíos que enfrentó el equipo y cómo los resolvieron]
+Problemas al realizar el merge del colaborador 1, nos detecta errores y lo pudimos solucionar
 
 ---
-**Fecha de Entrega:** [DD/MM/AAAA]
+**Fecha de Entrega:** 5/12/2025
